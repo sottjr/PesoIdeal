@@ -1,0 +1,12 @@
+.imagem {
+    background-image: url("imgs/balanca.png");
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin-right: 20px;
+}
+.area {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
